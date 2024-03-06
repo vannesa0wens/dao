@@ -3,3 +3,5 @@
 voit +
 # Ada Library Information
 *.ali
+*/dll
+*fontennd
