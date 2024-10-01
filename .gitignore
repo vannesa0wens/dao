@@ -1,6 +1,6 @@
 # Object 
 *.o202
-voit +
+voit ++
 # Ada Library Information
 *.ali
 */dll
